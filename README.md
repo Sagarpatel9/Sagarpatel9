@@ -21,7 +21,7 @@ I am currently preparing for **CompTIA Security+ and Network+**, refining my ski
 ## 📫 Let's Connect!  
 I am always open to **collaborations, networking, and cybersecurity discussions**. Feel free to reach out!  
 
-🔹 **LinkedIn:** [Your LinkedIn](#https://www.linkedin.com/in/sagar-patel-48612a311/)  
-🔹 **Email:** [Your Email](#sagarpatel7699@gmail.com)  
+🔹 **LinkedIn:** [Sagar Patel](https://www.linkedin.com/in/sagar-patel-48612a311/)
+🔹 **Email:** [Email](sagarpatel7699@gmail.com)  
 
 🚀 **Let's work together to strengthen cybersecurity and defend against emerging threats!**  
