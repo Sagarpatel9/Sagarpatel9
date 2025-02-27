@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Sagarkumar Patel 
+🔹 **SOC Analyst | Cybersecurity Analyst | Network Security Analyst**  
 
-<!--
-**Sagarpatel9/Sagarpatel9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔹 About Me  
+I am a **cybersecurity professional** passionate about **threat detection, network security, and incident response**. My expertise lies in **SOC operations, security automation, and Blue Team defense**, with hands-on experience in **log analysis, SIEM monitoring, and forensic investigation**.  
 
-Here are some ideas to get you started:
+I am currently preparing for **CompTIA Security+ and Network+**, refining my skills in **threat intelligence, log analysis, and security monitoring**. I thrive in **high-pressure security environments**, where **real-time cyber defense and rapid incident response** are essential.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 Technical Skills  
+✅ **SOC Operations & Incident Response:** SIEM (Splunk, ELK), log analysis, IDS/IPS, forensic investigation  
+✅ **Cyber Threat Intelligence:** MITRE ATT&CK, malware analysis, vulnerability assessments, endpoint security  
+✅ **Network Security:** TCP/IP, VPNs, firewall configurations, packet analysis, secure network architectures  
+✅ **Programming & Security Tools:** Python, PowerShell, Nmap, Wireshark, Burp Suite, Nessus, OpenVAS  
+✅ **Certifications:** **CompTIA Security+ (in progress), CompTIA Network+ (in progress)**  
+
+---
+
+
+## 📫 Let's Connect!  
+I am always open to **collaborations, networking, and cybersecurity discussions**. Feel free to reach out!  
+
+🔹 **LinkedIn:** [Your LinkedIn](#https://www.linkedin.com/in/sagar-patel-48612a311/)  
+🔹 **Email:** [Your Email](#sagarpatel7699@gmail.com)  
+
+🚀 **Let's work together to strengthen cybersecurity and defend against emerging threats!**  
