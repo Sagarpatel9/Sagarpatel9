@@ -4,7 +4,7 @@
 ## 🔹 About Me  
 I am a **cybersecurity professional** passionate about **threat detection, network security, and incident response**. My expertise lies in **SOC operations, security automation, and Blue Team defense**, with hands-on experience in **log analysis, SIEM monitoring, and forensic investigation**.  
 
-I am currently preparing for **CompTIA Security+ and Network+**, refining my skills in **threat intelligence, log analysis, and security monitoring**. I thrive in **high-pressure security environments**, where **real-time cyber defense and rapid incident response** are essential.  
+I am currently preparing for **CompTIA Security+**, refining my skills in **threat intelligence, log analysis, and security monitoring**. I thrive in **high-pressure security environments**, where **real-time cyber defense and rapid incident response** are essential.  
 
 ---
 
