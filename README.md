@@ -13,7 +13,7 @@ I am currently preparing for **CompTIA Security+**, refining my skills in **thre
 ✅ **Cyber Threat Intelligence:** MITRE ATT&CK, malware analysis, vulnerability assessments, endpoint security  
 ✅ **Network Security:** TCP/IP, VPNs, firewall configurations, packet analysis, secure network architectures  
 ✅ **Programming & Security Tools:** Python, PowerShell, Nmap, Wireshark, Burp Suite, Nessus, OpenVAS  
-✅ **Certifications:** **CompTIA Security+ (in progress), CompTIA Network+ (in progress)**  
+✅ **Certifications: **CompTIA Security+ (planned)**
 
 ---
 
