@@ -39,16 +39,33 @@ Currently, I’m developing skills in both **IT Helpdesk support and SOC analysi
 
 ## 🔹 Projects
 
-🔹 **Wazuh SOC Lab (Google Cloud)**
-• Deployed SIEM in cloud environment
-• Integrated endpoint monitoring
-• Simulated attacks and analyzed alerts
-• Created custom detection rules
+🔹 **Enterprise Help Desk Lab (osTicket | Ubuntu Server)**
+• Deployed and configured a help desk ticketing system (osTicket)
+• Managed users, departments, and SLA-based ticket prioritization
+• Simulated real-world IT issues (password reset, DNS, onboarding)
+• Practiced incident tracking, documentation, and resolution workflows
 
-🔹 **IT Support Lab (Self-Practice)**
-• Troubleshooting Windows issues
-• User account and system configuration
-• Network connectivity testing
+🔹 **Wazuh SOC Lab (Google Cloud SIEM)**
+• Deployed SIEM environment in cloud infrastructure
+• Monitored endpoint activity and analyzed security alerts
+• Simulated attacks and investigated logs
+• Developed custom detection rules and MITRE ATT&CK mapping
+
+🔹 **Firewall Configuration & Network Security (pfSense)**
+• Configured firewall rules to block ICMP and spoofed traffic
+• Simulated attacks using hping3 to test defenses
+• Analyzed logs to identify suspicious network activity
+
+🔹 **Incident Response Investigation (Log Analysis)**
+• Investigated simulated phishing attack using HTTP and email logs
+• Identified indicators of compromise (IOCs)
+• Documented findings and remediation steps
+
+🔹 **OSPF Network Simulation (Cisco Packet Tracer)**
+• Designed enterprise network with OSPF dynamic routing
+• Configured DHCP and validated connectivity
+• Performed network troubleshooting across multiple devices
+
 
 ---
 
