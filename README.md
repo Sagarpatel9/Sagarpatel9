@@ -6,30 +6,31 @@
 
 ## 🔹 About Me
 
-I’m an entry-level IT and cybersecurity professional with a strong interest in **technical support, system troubleshooting, and security operations**.
+I’m an entry-level IT and cybersecurity professional with hands-on experience in **technical support, system troubleshooting, and security operations**.
 
-I have hands-on experience working with **Windows environments, troubleshooting user issues, and supporting systems**, along with building a **cloud-based SOC lab using Wazuh SIEM** to simulate real-world threat detection and monitoring.
+I have built and worked on real-world labs including an **enterprise help desk system (osTicket)** and a **cloud-based SIEM environment (Wazuh)**, where I practiced resolving user issues, monitoring systems, and analyzing security alerts.
 
-Currently, I’m developing skills in both **IT Helpdesk support and SOC analysis**, with a focus on **problem-solving, system reliability, and security monitoring**.
+I’m focused on starting my career in **IT Helpdesk or SOC Analyst roles**, where I can support users, troubleshoot technical issues, and contribute to system security.
 
 ---
 
 ## 🔹 Technical Skills
 
-💻 **IT Support & Troubleshooting**
-• Windows OS support • User account management • System troubleshooting
-• Remote support • Hardware & software issue resolution • Basic networking
+💻 **IT Support**
+• Windows OS • Troubleshooting • Ticketing Systems (osTicket)
+• User support • Incident documentation • Remote support
 
-🔐 **SOC & Security Fundamentals**
-• SIEM (Wazuh, Splunk) • Log analysis • Alert triage • MITRE ATT&CK
-• Incident investigation • Endpoint monitoring
+🔐 **Security & SOC**
+• SIEM (Wazuh, Splunk) • Log analysis • Alert triage
+• Incident investigation • MITRE ATT&CK
 
 🌐 **Networking**
-• TCP/IP • DNS • DHCP • VPN • Network troubleshooting
+• TCP/IP • DNS • DHCP • OSPF • Network troubleshooting
 
-🛠️ **Tools & Technologies**
-• Active Directory (basic) • Wireshark • Nmap • PowerShell • Linux
-• Google Cloud Platform (SOC Lab)
+🛠️ **Tools & Systems**
+• Linux (Ubuntu/Kali) • Wireshark • Nmap • pfSense
+• Python • PowerShell • Google Cloud Platform
+
 
 📜 **Certifications & Training**
 • TryHackMe: Pre-Security, SOC Level 1 *(in progress)*
