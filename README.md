@@ -1,46 +1,70 @@
-# 👋 Hi, I'm Sagarkumar Patel  
-🔹 **Aspiring SOC Analyst | Cybersecurity Enthusiast | Blue Team Defender**
+# 👋 Hi, I'm Sagarkumar Patel
+
+🔹 **Aspiring IT Support Specialist | SOC Analyst | Cybersecurity Enthusiast**
 
 ---
 
 ## 🔹 About Me
 
-I'm a passionate and driven **cybersecurity student** focused on **SOC operations, threat detection, and incident response**. With a strong foundation in **log analysis, SIEM monitoring, and network defense**, I bring hands-on experience from real-world lab environments and academic projects simulating enterprise security.
+I’m an entry-level IT and cybersecurity professional with a strong interest in **technical support, system troubleshooting, and security operations**.
 
-Currently pursuing **CompTIA Security+** and completing **SOC-level training on TryHackMe**, I’m committed to growing as a **Blue Team professional** who thrives in fast-paced environments where **real-time monitoring and quick response** are critical.
+I have hands-on experience working with **Windows environments, troubleshooting user issues, and supporting systems**, along with building a **cloud-based SOC lab using Wazuh SIEM** to simulate real-world threat detection and monitoring.
+
+Currently, I’m developing skills in both **IT Helpdesk support and SOC analysis**, with a focus on **problem-solving, system reliability, and security monitoring**.
 
 ---
 
 ## 🔹 Technical Skills
 
-🔐 **SOC & Incident Response**  
-• SIEM (Splunk, ELK) • Log analysis • Alert triage • IDS/IPS • Forensic investigation  
+💻 **IT Support & Troubleshooting**
+• Windows OS support • User account management • System troubleshooting
+• Remote support • Hardware & software issue resolution • Basic networking
 
-🛡️ **Threat Intelligence & Analysis**  
-• MITRE ATT&CK • Malware behavior analysis • Endpoint security • Vulnerability assessments  
+🔐 **SOC & Security Fundamentals**
+• SIEM (Wazuh, Splunk) • Log analysis • Alert triage • MITRE ATT&CK
+• Incident investigation • Endpoint monitoring
 
-🌐 **Network & Infrastructure Security**  
-• TCP/IP • Packet inspection • VPNs • Firewall configuration • Network segmentation  
+🌐 **Networking**
+• TCP/IP • DNS • DHCP • VPN • Network troubleshooting
 
-🛠️ **Security Tools & Scripting**  
-• Python • PowerShell • Wireshark • Nmap • Burp Suite • Nessus • OpenVAS  
+🛠️ **Tools & Technologies**
+• Active Directory (basic) • Wireshark • Nmap • PowerShell • Linux
+• Google Cloud Platform (SOC Lab)
 
-📜 **Certifications & Training**  
-• TryHackMe: Pre-Security, SOC Level 1 *(in progress)*  
-• CompTIA Security+ *(planned)*  
+📜 **Certifications & Training**
+• TryHackMe: Pre-Security, SOC Level 1 *(in progress)*
+• CompTIA Security+ *(in progress)*
+
+---
+
+## 🔹 Projects
+
+🔹 **Wazuh SOC Lab (Google Cloud)**
+• Deployed SIEM in cloud environment
+• Integrated endpoint monitoring
+• Simulated attacks and analyzed alerts
+• Created custom detection rules
+
+🔹 **IT Support Lab (Self-Practice)**
+• Troubleshooting Windows issues
+• User account and system configuration
+• Network connectivity testing
 
 ---
 
 ## 🔎 Mission
 
-I aim to contribute to a **Security Operations Center** where I can apply my skills in **monitoring, detection, and response**, while continuously growing through real-world experience and mentorship. I’m especially motivated to defend systems against evolving cyber threats and support secure digital environments for users and organizations alike.
+My goal is to start my career in **IT Support or a SOC Analyst role**, where I can:
+
+• Troubleshoot and support users effectively
+• Monitor systems and respond to security alerts
+• Continuously learn and grow in cybersecurity
 
 ---
 
-## 📫 Let's Connect!  
-I am always open to **collaborations, networking, and cybersecurity discussions**. Feel free to reach out!  
+## 📫 Let's Connect!
 
-🔹 **LinkedIn:** [Sagar Patel](https://www.linkedin.com/in/sagar-patel-48612a311/)
-🔹 **Email:** [Email](sagarpatel7699@gmail.com)  
+🔹 **LinkedIn:** https://www.linkedin.com/in/sagar-patel-48612a311/
+🔹 **Email:** [sagarpatel7699@gmail.com](mailto:sagarpatel7699@gmail.com)
 
-🚀 **Let's work together to strengthen cybersecurity and defend against emerging threats!**  
+🚀 Open to **IT Helpdesk, Technical Support, and SOC Analyst opportunities**
