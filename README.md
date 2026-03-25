@@ -33,7 +33,7 @@ troubleshooting, incident documentation
 Cisco Packet Tracer, Nmap
 
 **Certifications:**
-- CompTIA A+ 220-1101 & 220-1102 *(in progress)*
+
 - CompTIA Security+ SY0-701 *(in progress)*
 - TryHackMe Pre-Security *(completed)*
 - TryHackMe SOC Level 1 *(in progress)*
