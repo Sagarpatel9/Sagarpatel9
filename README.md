@@ -44,7 +44,7 @@ Deployed osTicket on Ubuntu Server with 3 departments, 5 agent roles, and 4 SLA 
 
 Configured DHCP pools across 4 routers to dynamically assign IPs to devices on 4 subnets. Implemented OSPF dynamic routing for full cross-subnet connectivity. Documented 5 helpdesk network troubleshooting scenarios using ipconfig, ping, tracert, and show ip route.
 
-[View project →](https://github.com/Sagarpatel9/Network-Infrastructure-DHCP-Lab)
+[View project →](https://github.com/Sagarpatel9/OSPF-Network-Simulation)
 
 ---
 
