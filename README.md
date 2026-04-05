@@ -1,27 +1,21 @@
 # Sagarkumar Patel
-**IT Support | Cybersecurity | SOC Operations**
+**IT Support | Active Directory | Helpdesk Systems | Networking**
 
 ---
 
-## About me
+## About Me
 
-Entry-level IT and cybersecurity professional with hands-on lab experience in system administration, Active Directory management, and security operations. Built real-world environments including an enterprise Active Directory domain on Azure (51 users, 5 GPOs, 10 helpdesk scenarios), a cloud-based SIEM (Wazuh on Google Cloud), and an IT helpdesk system (osTicket on Ubuntu). Currently pursuing CompTIA Security+ while actively seeking IT Helpdesk and Desktop Support roles in Dallas, TX.
+IT support professional with hands-on lab experience in Active Directory administration, helpdesk ticketing systems, endpoint troubleshooting, and network infrastructure. Built enterprise-modeled environments including an Active Directory domain on Azure (51 users, 5 GPOs, 10 helpdesk SOPs), an IT helpdesk system (osTicket on Ubuntu), and network simulations with OSPF routing and DHCP. CS graduate pursuing MS in Computer Science at UT Dallas. Actively seeking IT Help Desk and Desktop Support roles in Dallas, TX.
 
 ---
 
-## Technical skills
+## Technical Skills
 
-**IT Support:** Windows 10/11, Windows Server 2025, Active Directory, Group Policy (GPO), Azure, ticketing systems (osTicket), user account management, remote support (RDP), PowerShell, hardware troubleshooting
+**IT Support:** Windows 10/11, Windows Server 2025, Active Directory, Group Policy (GPO), Azure AD, ticketing systems (osTicket), user account management, Remote Desktop (RDP), PowerShell, Microsoft 365, hardware troubleshooting
 
-**Security & SOC:** SIEM (Wazuh), log analysis, alert triage, Event Viewer (Event ID 4625/4624), MITRE ATT&CK, incident investigation, DLP (USB restriction), account lockout policy
+**Networking:** TCP/IP, DNS, DHCP, OSPF, VPN, Cisco Packet Tracer, `ipconfig`, `nslookup`, `ping`, `tracert`
 
-**Networking:** TCP/IP, DNS, DHCP, OSPF, pfSense, Wireshark, `ipconfig`, `nslookup`, `ping`, `tracert`
-
-**Systems & Tools:** Linux (Ubuntu/Kali), PowerShell, Python, Microsoft Azure, Google Cloud Platform, VirtualBox/VMware, Nmap
-
-**Certifications:**
-- CompTIA Security+ SY0-701 *(in progress)*
-- TryHackMe Pre-Security *(completed)*
+**Systems & Tools:** Linux (Ubuntu), PowerShell, Microsoft Azure, Google Cloud Platform, VirtualBox/VMware, SLA management
 
 ---
 
@@ -39,16 +33,25 @@ Built an enterprise AD environment on Azure with a Domain Controller, domain-joi
 ### Enterprise Help Desk Lab (osTicket)
 **Stack:** osTicket · Ubuntu Server (LAMP) · Windows 11 VM
 
-Simulated a 3-tier IT support environment with End User, IT Head, and Network Engineer roles. Resolved 4 ticket scenarios end-to-end covering new employee onboarding, password resets, account investigation with Event ID 4625 analysis, and DNS misconfiguration troubleshooting.
+Deployed osTicket on Ubuntu Server with 3 departments, 5 agent roles, and 4 SLA tiers to simulate a real Tier 1 helpdesk environment. Resolved 20+ simulated tickets covering password resets, DNS issues, software troubleshooting, and new user onboarding.
 
 [View project →](https://github.com/Sagarpatel9/Enterprise-Helpdesk-Lab)
+
+---
+
+### Network Infrastructure & DHCP Configuration Lab
+**Stack:** Cisco Packet Tracer · OSPF · DHCP
+
+Configured DHCP pools across 4 routers to dynamically assign IPs to devices on 4 subnets. Implemented OSPF dynamic routing for full cross-subnet connectivity. Documented 5 helpdesk network troubleshooting scenarios using ipconfig, ping, tracert, and show ip route.
+
+[View project →](https://github.com/Sagarpatel9/Network-Infrastructure-DHCP-Lab)
 
 ---
 
 ### Wazuh SOC Lab (Google Cloud)
 **Stack:** Wazuh SIEM · Google Cloud · Windows Endpoints
 
-Deployed a cloud-based SIEM environment, configured endpoint agents, and monitored security alerts. Simulated brute-force attacks, analyzed logs, and developed custom detection rules mapped to MITRE ATT&CK T1110.
+Deployed a cloud-based SIEM environment, configured endpoint agents, and monitored security alerts. Simulated brute-force attacks and analyzed logs for threat detection.
 
 [View project →](https://github.com/Sagarpatel9/wazuh-soc-lab)
 
@@ -57,7 +60,7 @@ Deployed a cloud-based SIEM environment, configured endpoint agents, and monitor
 ### Firewall Configuration (pfSense)
 **Stack:** pfSense · hping3 · Wireshark
 
-Configured firewall rules to block ICMP and spoofed traffic. Simulated attacks using hping3 to validate defenses and analyzed logs to identify suspicious activity.
+Configured firewall rules to block ICMP and spoofed traffic. Simulated attacks to validate defenses and analyzed logs to identify suspicious activity.
 
 [View project →](https://github.com/Sagarpatel9/Firewall-Configuration-Network-Security-Project)
 
@@ -72,17 +75,7 @@ Investigated a simulated phishing attack. Identified indicators of compromise, t
 
 ---
 
-### OSPF Network Simulation (Cisco Packet Tracer)
-**Stack:** Cisco Packet Tracer · OSPF · DHCP
-
-Designed a multi-router enterprise network with OSPF dynamic routing, configured DHCP, and performed end-to-end connectivity validation.
-
-[View project →](https://github.com/Sagarpatel9/OSPF-Network-Simulation)
-
----
-
 ## Contact
-
-- Email: sagarpatel7699@gmail.com
-- LinkedIn: [linkedin.com/in/sagar-patel-48612a311](https://linkedin.com/in/sagar-patel-48612a311/)
-- Location: Dallas, TX — open to helpdesk and desktop support roles
+- 📧 Email: sagarpatel7699@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/sagarkumar-patel](https://linkedin.com/in/sagarkumar-patel)
+- 📍 Location: Dallas, TX
