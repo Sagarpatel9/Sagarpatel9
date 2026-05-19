@@ -1,11 +1,11 @@
 # Sagarkumar Patel
-**IT Support | Active Directory | Helpdesk Systems | Networking**
+**IT Support Technician | Desktop Support | Active Directory | Help Desk**
 
 ---
 
 ## About Me
 
-IT support professional with hands-on lab experience in Active Directory administration, helpdesk ticketing systems, endpoint troubleshooting, and network infrastructure. Built enterprise-modeled environments including an Active Directory domain on Azure (51 users, 5 GPOs, 10 helpdesk SOPs), an IT helpdesk system (osTicket on Ubuntu), and network simulations with OSPF routing and DHCP. CS graduate pursuing MS in Computer Science at UT Dallas. Actively seeking IT Help Desk and Desktop Support roles in Dallas, TX.
+IT Support Technician currently on contract at JPMorgan Chase. Hands-on experience in endpoint deployment, Active Directory, Azure AD, and Tier 1/2 troubleshooting. Building practical IT skills through enterprise-modeled home lab projects. Seeking full-time IT Helpdesk or Desktop Support roles in Dallas–Fort Worth, TX.
 
 ---
 
