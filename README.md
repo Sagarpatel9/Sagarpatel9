@@ -4,13 +4,11 @@
 ---
 
 ## About Me
-
-IT Support Technician currently on contract at JPMorgan Chase. Hands-on experience in endpoint deployment, Active Directory, Azure AD, and Tier 1/2 troubleshooting. Building practical IT skills through enterprise-modeled home lab projects. Seeking full-time IT Helpdesk or Desktop Support roles in Dallas–Fort Worth, TX.
+IT Support Technician currently on contract at JPMorgan Chase, supporting a large-scale enterprise hardware deployment. Building practical IT and networking skills through enterprise-modeled home lab projects covering Active Directory administration, helpdesk ticketing, endpoint management, and network infrastructure.
 
 ---
 
 ## Technical Skills
-
 **IT Support:** Windows 10/11, Windows Server 2025, Active Directory, Group Policy (GPO), Azure AD, ticketing systems (osTicket), user account management, Remote Desktop (RDP), PowerShell, Microsoft 365, hardware troubleshooting
 
 **Networking:** TCP/IP, DNS, DHCP, OSPF, VPN, Cisco Packet Tracer, `ipconfig`, `nslookup`, `ping`, `tracert`
@@ -72,10 +70,3 @@ Configured firewall rules to block ICMP and spoofed traffic. Simulated attacks t
 Investigated a simulated phishing attack. Identified indicators of compromise, traced attacker activity through logs, and documented findings with remediation recommendations.
 
 [View project →](https://github.com/Sagarpatel9/incident-report)
-
----
-
-## Contact
-- 📧 Email: sagarpatel7699@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sagarkumar-patel](https://linkedin.com/in/sagarkumar-patel)
-- 📍 Location: Dallas, TX
