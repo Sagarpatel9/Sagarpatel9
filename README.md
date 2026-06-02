@@ -4,7 +4,7 @@
 ---
 
 ## About Me
-IT Support Technician currently on contract at JPMorgan Chase, supporting a large-scale enterprise hardware deployment. Building practical IT and networking skills through enterprise-modeled home lab projects covering Active Directory administration, helpdesk ticketing, endpoint management, and network infrastructure.
+IT Support Technician on contract at JPMorgan Chase, supporting a large-scale enterprise hardware deployment. Home lab projects cover Active Directory, helpdesk ticketing, endpoint management, and network infrastructure.
 
 ---
 
