@@ -46,27 +46,3 @@ Configured DHCP pools across 4 routers to dynamically assign IPs to devices on 4
 
 ---
 
-### Wazuh SOC Lab (Google Cloud)
-**Stack:** Wazuh SIEM · Google Cloud · Windows Endpoints
-
-Deployed a cloud-based SIEM environment, configured endpoint agents, and monitored security alerts. Simulated brute-force attacks and analyzed logs for threat detection.
-
-[View project →](https://github.com/Sagarpatel9/wazuh-soc-lab)
-
----
-
-### Firewall Configuration (pfSense)
-**Stack:** pfSense · hping3 · Wireshark
-
-Configured firewall rules to block ICMP and spoofed traffic. Simulated attacks to validate defenses and analyzed logs to identify suspicious activity.
-
-[View project →](https://github.com/Sagarpatel9/Firewall-Configuration-Network-Security-Project)
-
----
-
-### Incident Response Investigation
-**Stack:** HTTP logs · Email logs · IOC analysis
-
-Investigated a simulated phishing attack. Identified indicators of compromise, traced attacker activity through logs, and documented findings with remediation recommendations.
-
-[View project →](https://github.com/Sagarpatel9/incident-report)
